@@ -21,7 +21,7 @@ This lab leverages Docker to run vulnerable applications in isolated containers 
 ## Proof of Concept
 The DVWA application was successfully accessed at `http://127.0.0.1` from the host machine.
 
-![DVWA Login Page](dvwa_login.png)
+![DVWA Login Page](https://raw.githubusercontent.com/wasif-rahman/cybersecurity-docker-lab/main/dvwa_login.png)
 
 ## Container Management
 - List running containers: `docker ps`
